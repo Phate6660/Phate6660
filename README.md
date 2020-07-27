@@ -4,6 +4,7 @@
 
 I'm a \*nix enthusiast who programs for fun though I'm probably the laziest guy you'll ever meet.<br>
 I love music and anime, and have insanely large collections for each.<br>
+I also like to play around in Blender a bit, as you can tell from my profile picture and banner.<br>
 I'm not the most social person in the world, but hit me up if you want to talk. I'm available on various platforms.<br>
 Note: Hover over the Discord icon to get my username, I stuck it in a tooltip since there's no way to actually link to a profile yet.
 
