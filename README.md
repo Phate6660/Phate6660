@@ -1,3 +1,5 @@
+<img src="https://github.com/Phate6660/Phate6660/blob/master/valley-banner.png?raw=true"/>
+
 ## About Me
 
 I'm a \*nix enthusiast who programs for fun though I'm probably the laziest guy you'll ever meet.<br>
