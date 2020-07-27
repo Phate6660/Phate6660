@@ -23,4 +23,4 @@ Handles: Phate6660, Valley6660, phate, valley
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkd-bindings&show_owner=true&theme=dark)](https://github.com/Phate6660/sxhkd-bindings)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkdrc-mode&show_owner=true&theme=dark)](https://github.com/Phate6660/sxhkdrc-mode)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=pkg&show_owner=true&theme=dark)](https://github.com/Phate6660/pkg)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeStanger&repo=mpd-discord-rpc&show_owner=true&theme=dark)](https://github.com/JakeStanger/mpd-discord-rpc)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=cfg&show_owner=true&theme=dark)](https://github.com/Phate6660/cfg)
