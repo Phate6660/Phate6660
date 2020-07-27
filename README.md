@@ -2,7 +2,10 @@
 
 I'm a \*nix enthusiast who programs for fun though I'm probably the laziest guy you'll ever meet.<br>
 I love music and anime, and have insanely large collections for each.<br>
-I'm not the most social person in the world, but hit me up if you want to talk. I'm available on quite a few platforms.
+I'm not the most social person in the world, but hit me up if you want to talk. I'm available on various platforms.<br>
+Note: Hover over the Discord icon to get my username, I stuck it in a tooltip since there's no way to actually link to a profile yet.
+
+<a href="https://codeberg.org/Phate6660"><img src="codeberg.png" title="Codeberg"/></a> <a href="https://discord.com"><img src="discord.png" title="Phate6660#6270"/></a> <a href="https://lobste.rs/u/Phate6660"><img src="lobsters.png" title="Lobsters"/></a> <a href="https://fosstodon.org/@Phate6660"><img src="mastodon.png" title="Mastodon"/></a>  <a href="https://sr.ht/~phate"><img src="sourcehut.png" title="sourcehut"/></a>
 
 Favorite Languages: Rust and bash scripting
 
