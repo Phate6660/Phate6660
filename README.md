@@ -1,16 +1,20 @@
-### Hi there 👋
+## About Me
 
-<!--
-**Phate6660/Phate6660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a \*nix enthusiast who programs for fun though I'm probably the laziest guy you'll ever meet.<br>
+I love music and anime, and have insanely large collections for each.<br>
+I'm not the most social person in the world, but hit me up if you want to talk. I'm available on quite a few platforms.
 
-Here are some ideas to get you started:
+Favorite Languages: Rust and bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Handles: Phate6660, Valley6660, phate, valley
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phate6660&hide=javascript,lua)](https://github.com/anuraghazra/github-readme-stats)
+
+## Extra Pins
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=mpv-config&show_owner=true)](https://github.com/Phate6660/mpv-config)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ncdulo&repo=fortune-mod-mythical-linux&show_owner=true)](https://github.com/ncdulo/fortune-mod-mythical-linux)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkd-bindings&show_owner=true)](https://github.com/Phate6660/sxhkd-bindings)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkdrc-mode&show_owner=true)](https://github.com/Phate6660/sxhkdrc-mode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=pkg&show_owner=true)](https://github.com/Phate6660/pkg)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeStanger&repo=mpd-discord-rpc&show_owner=true)](https://github.com/JakeStanger/mpd-discord-rpc)
