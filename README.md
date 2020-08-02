@@ -16,6 +16,8 @@ Handles: Phate6660, Valley6660, phate, valley
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phate6660&hide=javascript,lua&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Phate6660's github stats](https://github-readme-stats.vercel.app/api?username=Phate6660&show_icons=true&theme=dark)](https://github.com/Phate6660)
+
 ## Extra Pins
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ncdulo&repo=fortune-mod-mythical-linux&show_owner=true&theme=dark)](https://github.com/ncdulo/fortune-mod-mythical-linux)
