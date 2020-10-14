@@ -10,12 +10,6 @@ Note: Hover over the Discord icon to get my username, I stuck it in a tooltip si
 
 <a href="https://codeberg.org/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/codeberg.png?raw=true" title="Codeberg"/></a> <a href="https://discord.com"><img src="https://github.com/Phate6660/Phate6660/blob/master/discord.png?raw=true" title="Phate6660#6270"/></a> <a href="https://lobste.rs/u/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/lobsters.png?raw=true" title="Lobsters"/></a> <a rel="me" href="https://fosstodon.org/@Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/mastodon.png?raw=true" title="Mastodon"/></a>  <a href="https://sr.ht/~phate"><img src="https://github.com/Phate6660/Phate6660/blob/master/sourcehut.png?raw=true" title="sourcehut"/></a>
 
-If you like my programming, please donate if you can. I'm not trying to pressure, please don't feel that way.<br>
-Just, every little bit helps. It's hard for me to get a job, and the closest one to me that I can get currently is a whole town over.
-
-<img src="https://img.shields.io/liberapay/patrons/Phate6660.svg?logo=liberapay"><br>
-<noscript><a href="https://liberapay.com/Phate6660/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
 Favorite Languages: Rust and bash scripting
 
 Handles: Phate6660, Valley6660, phate, valley
