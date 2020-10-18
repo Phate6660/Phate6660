@@ -5,14 +5,21 @@
 I'm a \*nix enthusiast who programs for fun though I'm probably the laziest guy you'll ever meet.<br>
 I love music and anime, and have insanely large collections for each.<br>
 I also like to play around in Blender a bit, as you can tell from my profile picture and banner.<br>
-I'm not the most social person in the world, but hit me up if you want to talk. I'm available on various platforms.<br>
-Note: Hover over the Discord icon to get my username, I stuck it in a tooltip since there's no way to actually link to a profile yet.
-
-<a href="https://codeberg.org/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/codeberg.png?raw=true" title="Codeberg"/></a> <a href="https://discord.com"><img src="https://github.com/Phate6660/Phate6660/blob/master/discord.png?raw=true" title="Phate6660#6270"/></a> <a href="https://lobste.rs/u/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/lobsters.png?raw=true" title="Lobsters"/></a> <a rel="me" href="https://fosstodon.org/@Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/mastodon.png?raw=true" title="Mastodon"/></a>  <a href="https://sr.ht/~phate"><img src="https://github.com/Phate6660/Phate6660/blob/master/sourcehut.png?raw=true" title="sourcehut"/></a>
-
-Favorite Languages: Rust and bash scripting
-
 Handles: Phate6660, Valley6660, phate, valley
+
+Setup:
+- OS: Gentoo (primary), LFS+Bedrock (Secondary), Windows (ew, but it's for gaming and nothing else)
+- WM: bspwm (primary), Openbox (my favorite, currently secondary right now though), EXWM (WM in Emacs)
+- Editors: Emacs (primary), Vim (secondary)
+- Hardware:
+  + Linux PC: Optiplex 7010, 16GB of RAM, i5-3470 CPU, 512MB DDR3 AMD GPU (I forgot the name, so here's the specs)
+  + Windows PC: Optiplex 7010, 16GB of RAM, i5-3470 CPU, AMD Radeon R7 430 (2GB GDDR5 low-profile)
+  + KVM Switch: Redragon K556 Mechanical Keyboard, Blackweb 6-Button Gaming Mouse, 1440x900 VGA Dell Monitor
+
+I'm not the most social person in the world, but hit me up if you want to talk. I'm available on various platforms:<br>
+<a href="https://codeberg.org/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/codeberg.png?raw=true" title="Codeberg"/></a> <a href="https://discord.com"><img src="https://github.com/Phate6660/Phate6660/blob/master/discord.png?raw=true" title="Phate#6660"/></a> <a href="https://lobste.rs/u/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/lobsters.png?raw=true" title="Lobsters"/></a> <a rel="me" href="https://fosstodon.org/@Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/mastodon.png?raw=true" title="Mastodon"/></a>  <a href="https://sr.ht/~phate"><img src="https://github.com/Phate6660/Phate6660/blob/master/sourcehut.png?raw=true" title="sourcehut"/></a>
+
+Note: Hover over the Discord icon to get my username, I stuck it in a tooltip since there's no way to actually link to a profile yet.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phate6660&hide=javascript,lua,shell&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
