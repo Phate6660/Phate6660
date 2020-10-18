@@ -4,7 +4,7 @@
 
 I'm a \*nix enthusiast who programs for fun though I'm probably the laziest guy you'll ever meet.<br>
 I love music and anime, and have insanely large collections for each.<br>
-I also like to play around in Blender a bit, as you can tell from my profile picture and banner.<br>
+I also like to play around in Blender a bit, as you can tell from my banner.<br>
 Handles: Phate6660, Valley6660, phate, valley
 
 Setup:
