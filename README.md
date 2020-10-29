@@ -32,6 +32,6 @@ Note: Hover over the Discord icon to get my username, I stuck it in a tooltip si
 [![sxhkd-bindings](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkd-bindings&theme=dark)](https://github.com/Phate6660/sxhkd-bindings)
 [![sxhkdrc-mode](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkdrc-mode&theme=dark)](https://github.com/Phate6660/sxhkdrc-mode)
 [![p6nc-overlay](https://github-readme-stats.vercel.app/api/pin/?username=p6nc&repo=overlay&show_owner=true&theme=dark)](https://github.com/p6nc/overlay)
-[![undeprecated](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=undeprecated&theme=dark)](https://github.com/Phate6660/undeprecated)
 [![rsmpc](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsmpc&theme=dark)](https://github.com/Phate6660/rsmpc)
+[![undeprecated](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=undeprecated&theme=dark)](https://github.com/Phate6660/undeprecated)
 [![rsmpv](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsmpv&theme=dark)](https://github.com/Phate6660/rsmpv)
