@@ -13,7 +13,7 @@ Setup:
 - Editors: Emacs (primary), Vim (secondary)
 - Hardware:
   + Linux PC: Optiplex 7010, 16GB of RAM, i5-3470 CPU, 512MB DDR3 AMD GPU (I forgot the name, so here's the specs)
-  + Windows PC: Optiplex 7010, 16GB of RAM, i5-3470 CPU, AMD Radeon R7 430 (2GB GDDR5 low-profile)
+  + ~~Windows PC: Optiplex 7010, 16GB of RAM, i5-3470 CPU, AMD Radeon R7 430 (2GB GDDR5 low-profile)~~ RIP Windows PC
   + KVM Switch: Redragon K556 Mechanical Keyboard, Blackweb 6-Button Gaming Mouse, 1440x900 VGA Dell Monitor
 
 I'm not the most social person in the world, but hit me up if you want to talk. I'm available on various platforms:<br>
