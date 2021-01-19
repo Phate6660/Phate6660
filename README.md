@@ -8,12 +8,13 @@ I also like to play around in Blender a bit, as you can tell from my banner.<br>
 Handles: Phate6660, Valley6660, phate, valley
 
 Setup:
-- OS: Gentoo (primary), LFS+Bedrock (Secondary), Windows (ew, but it's for gaming and nothing else)
+- OS: Gentoo (primary), LFS+Bedrock (Secondary), Windows (ew, but it's for gaming and anything I can't get to run on Linux)
 - WM: bspwm (primary), Openbox (my favorite, currently secondary right now though), EXWM (WM in Emacs)
-- Editors: Emacs (primary), Vim (secondary)
+- Editors: Vim (secondary), Emacs (primary)
 - Hardware:
-  + Linux PC: Optiplex 7010, 16GB of RAM, i5-3470 CPU, 512MB DDR3 AMD GPU (I forgot the name, so here's the specs)
-  + ~~Windows PC: Optiplex 7010, 16GB of RAM, i5-3470 CPU, AMD Radeon R7 430 (2GB GDDR5 low-profile)~~ RIP Windows PC
+  + Linux PC: Optiplex 7010, 16GB of RAM, Intel i5-3470 CPU, 512MB DDR3 AMD GPU (I forgot the name, so here's the specs)
+  + ~~Windows PC: Optiplex 7010, 16GB of RAM, Intel i5-3470 CPU, AMD Radeon R7 430 (2GB GDDR5 low-profile)~~ RIP Windows PC
+  + Windows Laptop: HP Notebook, 4GB of RAM, AMD E2-7110 APU with AMD Radeon R2 Graphics
   + KVM Switch: Redragon K556 Mechanical Keyboard, Blackweb 6-Button Gaming Mouse, 1440x900 VGA Dell Monitor
 
 I'm not the most social person in the world, but hit me up if you want to talk. I'm available on various platforms:<br>
