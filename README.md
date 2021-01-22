@@ -9,7 +9,7 @@ Handles: Phate6660, Valley6660, phate, valley
 
 Setup:
 - OS: Gentoo (primary), LFS+Bedrock (Secondary), Windows (ew, but it's for gaming and anything I can't get to run on Linux)
-- WM: bspwm (primary), Openbox (my favorite, currently secondary right now though), EXWM (WM in Emacs)
+- WM: HerbstluftWM (primary), Openbox (my favorite, currently secondary right now though), EXWM (WM in Emacs)
 - Editors: Vim (primary), Emacs (secondary)
 - Hardware:
   + Linux PC: Optiplex 7010, 16GB of RAM, Intel i5-3470 CPU, 512MB DDR3 AMD GPU (I forgot the name, so here's the specs)
