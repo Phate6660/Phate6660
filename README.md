@@ -12,10 +12,11 @@ Setup:
 - WM: HerbstluftWM (primary), Openbox (my favorite, currently secondary right now though), EXWM (WM in Emacs)
 - Editors: Vim (primary), Emacs (secondary)
 - Hardware:
-  + Linux PC: Optiplex 7010, 16GB of RAM, Intel i5-3470 CPU, 512MB DDR3 AMD GPU (I forgot the name, so here's the specs)
+  + Gentoo PC: Optiplex 7010, 16GB of RAM, Intel i5-3470 CPU, 512MB DDR3 AMD GPU (I forgot the name, so here's the specs)
   + ~~Windows PC: Optiplex 7010, 16GB of RAM, Intel i5-3470 CPU, AMD Radeon R7 430 (2GB GDDR5 low-profile)~~ RIP Windows PC
-  + Windows Laptop: HP Notebook, 4GB of RAM, AMD E2-7110 APU with AMD Radeon R2 Graphics
+  + Linux Mint Laptop: HP Notebook, 4GB of RAM, AMD E2-7110 APU with AMD Radeon R2 Graphics
   + KVM Switch: Redragon K556 Mechanical Keyboard, Blackweb 6-Button Gaming Mouse, 1440x900 VGA Dell Monitor
+  + Raspberry Pi 4B with LibreELEC: 4GB of RAM, (update with cpu specs), hooked into KVM switch and outputs to the Dell Monitor
 
 I'm not the most social person in the world, but hit me up if you want to talk. I'm available on various platforms:<br>
 <a href="https://codeberg.org/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/codeberg.png?raw=true" title="Codeberg"/></a> <a href="https://discord.com"><img src="https://github.com/Phate6660/Phate6660/blob/master/discord.png?raw=true" title="Phate#6660"/></a> <a href="https://lobste.rs/u/Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/lobsters.png?raw=true" title="Lobsters"/></a> <a rel="me" href="https://fosstodon.org/@Phate6660"><img src="https://github.com/Phate6660/Phate6660/blob/master/mastodon.png?raw=true" title="Mastodon"/></a>  <a href="https://sr.ht/~phate"><img src="https://github.com/Phate6660/Phate6660/blob/master/sourcehut.png?raw=true" title="sourcehut"/></a>
