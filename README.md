@@ -46,3 +46,4 @@ Note: Hover over the Discord icon to get my username, I stuck it in a tooltip si
 [![fsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=fsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/fsfetch)
 [![jsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=jsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/jsfetch)
 [![rktfetch](https://github-readme-stats.vercel.app/api/pin/?username=mythical-linux&repo=rktfetch&show_owner=true&theme=dark)](https://github.com/mythical-linux/rktfetch)
+[![phpfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=phpfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/phpfetch)
