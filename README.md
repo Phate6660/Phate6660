@@ -39,11 +39,11 @@ Note: Hover over the Discord icon to get my username, I stuck it in a tooltip si
 [![rsmpv](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsmpv&theme=dark)](https://github.com/Phate6660/rsmpv)
 
 ### Fetch Programs
-[![cppfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=cppfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/cppfetch)
-[![clojurefetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=clojurefetch&show_owner=true&theme=dark)](https://github.com/mythical-linux/rktfetch)
-[![rsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/rsfetch)
-[![scalafetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=scalafetch&show_owner=true&theme=dark)](https://github.com/Phate6660/scalafetch)
-[![fsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=fsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/fsfetch)
-[![jsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=jsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/jsfetch)
+[![cppfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=cppfetch&theme=dark)](https://github.com/Phate6660/cppfetch)
+[![clojurefetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=clojurefetch&theme=dark)](https://github.com/mythical-linux/rktfetch)
+[![rsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsfetch&theme=dark)](https://github.com/Phate6660/rsfetch)
+[![scalafetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=scalafetch&theme=dark)](https://github.com/Phate6660/scalafetch)
+[![fsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=fsfetch&theme=dark)](https://github.com/Phate6660/fsfetch)
+[![jsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=jsfetch&theme=dark)](https://github.com/Phate6660/jsfetch)
+[![phpfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=phpfetch&theme=dark)](https://github.com/Phate6660/phpfetch)
 [![rktfetch](https://github-readme-stats.vercel.app/api/pin/?username=mythical-linux&repo=rktfetch&show_owner=true&theme=dark)](https://github.com/mythical-linux/rktfetch)
-[![phpfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=phpfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/phpfetch)
