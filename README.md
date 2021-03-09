@@ -39,10 +39,10 @@ Note: Hover over the Discord icon to get my username, I stuck it in a tooltip si
 [![rsmpv](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsmpv&theme=dark)](https://github.com/Phate6660/rsmpv)
 
 ### Fetch Programs
-[![rsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/rsfetch)
 [![cppfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=cppfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/cppfetch)
-[![scalafetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=scalafetch&show_owner=true&theme=dark)](https://github.com/Phate6660/scalafetch)
 [![clojurefetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=clojurefetch&show_owner=true&theme=dark)](https://github.com/mythical-linux/rktfetch)
+[![rsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/rsfetch)
+[![scalafetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=scalafetch&show_owner=true&theme=dark)](https://github.com/Phate6660/scalafetch)
 [![fsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=fsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/fsfetch)
 [![jsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=jsfetch&show_owner=true&theme=dark)](https://github.com/Phate6660/jsfetch)
 [![rktfetch](https://github-readme-stats.vercel.app/api/pin/?username=mythical-linux&repo=rktfetch&show_owner=true&theme=dark)](https://github.com/mythical-linux/rktfetch)
