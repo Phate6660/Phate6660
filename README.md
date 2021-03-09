@@ -40,7 +40,7 @@ Note: Hover over the Discord icon to get my username, I stuck it in a tooltip si
 
 ### Fetch Programs
 [![cppfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=cppfetch&theme=dark)](https://github.com/Phate6660/cppfetch)
-[![clojurefetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=clojurefetch&theme=dark)](https://github.com/mythical-linux/rktfetch)
+[![clojurefetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=clojurefetch&theme=dark)](https://github.com/Phate6660/clojurefetch)
 [![rsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsfetch&theme=dark)](https://github.com/Phate6660/rsfetch)
 [![scalafetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=scalafetch&theme=dark)](https://github.com/Phate6660/scalafetch)
 [![fsfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=fsfetch&theme=dark)](https://github.com/Phate6660/fsfetch)
