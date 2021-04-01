@@ -40,9 +40,9 @@ Note: Hover over the Discord icon to get my username, I stuck it in a tooltip si
 [![pkg](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=pkg&theme=dark)](https://github.com/Phate6660/pkg)
 [![sxhkd-bindings](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkd-bindings&theme=dark)](https://github.com/Phate6660/sxhkd-bindings)
 [![sxhkdrc-mode](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=sxhkdrc-mode&theme=dark)](https://github.com/Phate6660/sxhkdrc-mode)
-[![p6nc-overlay](https://github-readme-stats.vercel.app/api/pin/?username=p6nc&repo=overlay&show_owner=true&theme=dark)](https://github.com/p6nc/overlay)
 [![rsmpc](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsmpc&theme=dark)](https://github.com/Phate6660/rsmpc)
 [![rsmpv](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=rsmpv&theme=dark)](https://github.com/Phate6660/rsmpv)
+[![p6nc-overlay](https://github-readme-stats.vercel.app/api/pin/?username=p6nc&repo=overlay&show_owner=true&theme=dark)](https://github.com/p6nc/overlay)
 
 ### Fetch Programs
 [![cppfetch](https://github-readme-stats.vercel.app/api/pin/?username=Phate6660&repo=cppfetch&theme=dark)](https://github.com/Phate6660/cppfetch)
