@@ -11,4 +11,4 @@ Handles: Phate6660, Valley6660, phate, valley
 
 [![Phate6660's github stats](https://github-readme-stats.vercel.app/api?username=Phate6660&show_icons=true&theme=dark)](https://github.com/Phate6660)
 
-To view more things (such as where to find me, links to all my projects, etc) visit my [website](https://Phate6660.codeberg.page).
+To view more things (such as where to find me, links to [all my projects](https://Phate6660.codeberg.page/projects.html), etc) visit my [website](https://Phate6660.codeberg.page).
