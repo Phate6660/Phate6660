@@ -8,7 +8,7 @@ I also like to play around in Blender a bit, as you can tell from my banner.<br>
 Handles: Phate6660, Valley6660, phate, valley
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phate6660&hide=c,clojure,css,html,javascript,python,scala&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Phate6660's github stats](https://github-readme-stats.vercel.app/api?username=Phate6660&show_icons=true&theme=dark)](https://github.com/Phate6660)
+[![Phate6660's github stats](https://github-readme-stats.vercel.app/api?username=Phate6660&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Phate6660)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Phate6660&theme=onedark&column=9&margin-w=20&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
