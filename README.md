@@ -16,6 +16,8 @@ Handles: Phate6660, Valley6660, phate, valley
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Phate6660&theme=onedark&column=9&margin-w=20&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1dddwrnhsib7flqugn0tgwiab&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1dddwrnhsib7flqugn0tgwiab&redirect=true)
+
 To view more things (such as where to find me, links to [all my projects](https://Phate6660.github.io/projects.html), etc) visit my [website](https://Phate6660.github.io).
 
 ## Why I'm on Here
