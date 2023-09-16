@@ -7,7 +7,7 @@ I love music and anime, and have insanely large collections for each.<br>
 I also like to play around in Blender a bit, as you can tell from my banner.<br>
 Handles: Phate6660, Valley6660, phate, valley
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="2000" height="1500">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="2000" height="500">
 
 To view more things (such as where to find me, links to [all my projects](https://Phate6660.github.io/projects.html), etc) visit my [website](https://Phate6660.github.io).
 
