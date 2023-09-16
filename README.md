@@ -8,7 +8,9 @@ I also like to play around in Blender a bit, as you can tell from my banner.<br>
 Handles: Phate6660, Valley6660, phate, valley
 
 The SVG is too big to display all the info, to see more click on the image:<br>
-<img align="center" src="/github-metrics.svg" alt="Metrics" href="https://raw.githubusercontent.com/Phate6660/Phate6660/master/github-metrics.svg" width="2000">
+<a href="https://raw.githubusercontent.com/Phate6660/Phate6660/master/github-metrics.svg">
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="2000">
+</a>
 
 To view more things (such as where to find me, links to [all my projects](https://Phate6660.github.io/projects.html), etc) visit my [website](https://Phate6660.github.io).
 
